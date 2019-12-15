@@ -1,0 +1,11 @@
+C:\Users\TomaszFaldrowicz\Documents\tau6\bin\Debug\netcoreapp3.0\tau6.exe
+C:\Users\TomaszFaldrowicz\Documents\tau6\bin\Debug\netcoreapp3.0\tau6.deps.json
+C:\Users\TomaszFaldrowicz\Documents\tau6\bin\Debug\netcoreapp3.0\tau6.runtimeconfig.json
+C:\Users\TomaszFaldrowicz\Documents\tau6\bin\Debug\netcoreapp3.0\tau6.runtimeconfig.dev.json
+C:\Users\TomaszFaldrowicz\Documents\tau6\bin\Debug\netcoreapp3.0\tau6.dll
+C:\Users\TomaszFaldrowicz\Documents\tau6\bin\Debug\netcoreapp3.0\tau6.pdb
+C:\Users\TomaszFaldrowicz\Documents\tau6\obj\Debug\netcoreapp3.0\tau6.csprojAssemblyReference.cache
+C:\Users\TomaszFaldrowicz\Documents\tau6\obj\Debug\netcoreapp3.0\tau6.AssemblyInfoInputs.cache
+C:\Users\TomaszFaldrowicz\Documents\tau6\obj\Debug\netcoreapp3.0\tau6.AssemblyInfo.cs
+C:\Users\TomaszFaldrowicz\Documents\tau6\obj\Debug\netcoreapp3.0\tau6.dll
+C:\Users\TomaszFaldrowicz\Documents\tau6\obj\Debug\netcoreapp3.0\tau6.pdb
